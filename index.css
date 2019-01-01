@@ -1,0 +1,8 @@
+body {
+  /* min-height: 75rem; */
+  padding-top: 4.5rem;
+}
+
+#main-navbar {
+  box-shadow: 1px 1px 1px #ccc;
+}
